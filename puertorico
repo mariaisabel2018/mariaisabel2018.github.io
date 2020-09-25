@@ -11,6 +11,12 @@
 
     <img src="Puerto-Rico-flag.jpg" alt="Puerto Ricos's Flag" />
 
+    <ul>
+      <li>Introduction</li>
+      <li>Geography</li>
+      <li>Government</li>
+      <li>Communications</li>
+
     <h2>Introduction</h2>
 
     <p>Populated for centuries by aboriginal peoples, the island was claimed by the Spanish Crown in 1493
@@ -35,6 +41,7 @@
     <h4>Location</h4>
 
     <p>Caribbean, island between the Caribbean Sea and the North Atlantic Ocean, east of the Dominican Republic.
+    <img src="Puerto-Rico-map.jpg" alt="Map of Puerto Rico" />
 
     <h4>Population Distribution</h4>
 
